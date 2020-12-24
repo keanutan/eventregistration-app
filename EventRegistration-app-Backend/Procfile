@@ -1,1 +1,1 @@
-web: java -jar EventRegistration-App-Backend/build/libs/EventRegistration-Backend-0.0.1-SNAPSHOT.jar
+web: java -jar EventRegistration-App-Backend/build/libs/EventRegistration-App-Backend-0.0.1-SNAPSHOT.jar
